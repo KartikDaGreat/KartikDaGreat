@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KartikDaGreat
-- 👀 I’m interested in gaming and tennis!
-- 🌱 I’m currently learning javascript!
+- 👀 I’m interested in reading and tennis!
+- 🌱 I’m currently learning javascript, jQuery and pHp!
 - 📫 How to reach me : mail me at kartikgounder@gmail.com
 
 <!---
