@@ -6,12 +6,9 @@
 
 ## 💼 About Me
 
-I'm Kartik, a passionate Machine Learning Engineer and Researcher dedicated to solving real-world problems through data and technology. My journey has led me through projects in **healthcare**, **natural language processing (NLP)**, **computer vision**, **edge computing**, and **IoMT frameworks**. I’m driven by innovation and am constantly exploring new methodologies in machine learning, signal processing, and AI ethics.
+I’m Kartik, a Computer Science and Engineering undergraduate with a strong background in **Machine Learning**, **AI**, **Software Engineering**, and **Data Science**. I’ve held roles at **SAP Labs**, **Samsung PRISM**, and **eNova Technologies**, where I designed innovative solutions that combined data-driven insights and technology to solve real-world problems.
 
-Currently, I'm diving into:
-- **Neonatal EEG Seizure Detection using LSTM networks** with adaptive learning.
-- **Fake News Detection for other Languages** using NLP and ensemble models as well as transfer learning.
-- Researching on **smart wearable technology (smart shoes)** for healthcare applications.
+I'm currently focused on projects that span across **IoT**, **AI in healthcare**, **on-device machine learning**, and **edge computing**, with a vision to pursue a Master's in Computer Science. My career goal is to contribute to societal growth as a Research and Development Engineer and, ultimately, start a technology-focused venture.
 
 ---
 
@@ -19,7 +16,7 @@ Currently, I'm diving into:
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikdagreat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkumargounder&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikdagreat&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -27,74 +24,75 @@ Currently, I'm diving into:
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-000000?style=for-the-badge&logo=cloudfoundry&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-F37626?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
-## 🔬 Research Highlights
+## 🔬 Research & Projects
 
-- **Skin Cancer Diagnosis** - Ensemble model using CNNs for early and accurate diagnosis. Published in IEEE conferences.
-- **Fake News Detection** - Aiming for robust accuracy and resource efficiency using ensemble models (RoBERTa, SGD, Passive Aggressive, etc.) with unique preprocessing techniques.
-- **Neonatal Seizure Detection** - Implementing adaptive learning for real-time and patient-specific seizure identification, using IoMT and edge computing for reliable data transmission.
-- **Smart Footwear for Healthcare** - Health-focused smart shoe with self-energy harvesting, temperature control, and more, designed for potential patenting.
+### Research Highlights
+- **Skin Cancer Detection:** Published research on an ensemble CNN model for skin cancer detection in IEEE, achieving 96.33% accuracy.
+- **Fake News Detection:** Developed an ensemble-based meta-learning framework for real-time identification of fake news. Currently under review with Elsevier.
+- **Document Classification for Samsung PRISM:** Created a lightweight CNN-based on-device document classifier, optimized for low latency and high accuracy, submitted for ISEC 2025.
 
-### Featured Publications
-- [Skin Cancer Detection Using CNNs - IEEE](#)
-- [Fake News Detection - Springer (Under Review)](#)
-- [Seizure Detection in Neonatal EEG - Conference Pending](#)
+### Notable Projects
+1. **FarmBot Software** (SAP Labs) - Decreased API call time by 28% using Flask and AngularJS. Integrated XSUAA for secure access.
+2. **Fake News Origin Detection System** - Ensemble model using gradient boosting and NLP to identify misinformation sources with high accuracy.
+3. **Psychological Counseling Chatbot** - Multimodal AI chatbot using speech-to-text, emotion recognition, and body pose detection for mental health assessment.
+4. **Sentiment Analysis System** - Python-based bot leveraging Tweepy and NLTK to analyze Twitter sentiment on trending topics.
 
 ---
 
 ## 🏆 Achievements
 
-- **Cryptic Hunt for Technology Hackathon** - Third place in 2024
-- **Samsung PRISM** - Research contributions as a mentee
-- **Elsevier Journal Submission** - Current paper under submission on advanced ensemble learning models
+- **Accenture Innovation Challenge (2023):** Semi-finalist out of 50,000 teams.
+- **Game Of Codes Hackathon (2023):** Winner, IEEE-CS.
+- **Ethletics Innovation Event (2022):** 2nd place, IIT Madras.
+- **Cryptic Hunt Hackathon (2022):** 3rd place, ACM-VIT.
+- **State Tennis (2019):** 1st place in U-16 AITA singles category.
 
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Gounder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-gounder)
-[![Email](https://img.shields.io/badge/Email-kartikgounder%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikgounder@example.com)
+[![Email](https://img.shields.io/badge/Email-kartikgounder%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikgounder@gmail.com)
 
 ---
 
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Multiscale Entropy in EEG Signal Processing](#)
-- [Smart Wearables in Healthcare: Where Engineering Meets Medicine](#)
-- [On-Device Machine Learning: Challenges and Opportunities](#)
+- [Implementing Edge AI for Real-Time Seizure Detection](#)
+- [Fake News Detection: Challenges and Innovations](#)
+- [Multimodal AI in Healthcare - Psychological Chatbots](#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📊 Repositories Worth Checking Out
+## 📊 Repositories to Check Out
 
 ### 🌱 **Garden Management System**
-A complete application using Angular and Flask for garden monitoring with real-time updates on plant health.
+A full-stack application using Angular and Flask to monitor plant health, with real-time data updates and secure access management.
 
 ### 📰 **Fake News Detection**
-A model ensemble featuring NLP-based classifiers like RoBERTa, PassiveAggressive, and Gradient Boosting to detect fake news efficiently.
+An ensemble model system that leverages RoBERTa, SGD, PassiveAggressive, and Gradient Boosting for efficient fake news identification.
 
-### 💡 **Neonatal EEG Analysis**
-An LSTM-based seizure detection model that leverages real-time EEG data for adaptive learning in neonatal healthcare.
+### 💡 **Psychological Counseling Chatbot**
+An AI-powered chatbot capable of analyzing mental states through multimodal inputs, featuring emotion recognition from speech, facial cues, and body language.
 
----
-
-Thank you for visiting my GitHub profile! I'm always open to collaboration, ideas, and constructive feedback. Let's make the world a smarter place, one line of code at a time! 🚀
+Thank you for visiting my GitHub profile! Let's collaborate to create solutions that drive change and make a meaningful impact. 🚀
