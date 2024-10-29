@@ -12,10 +12,6 @@ I'm currently focused on projects that span across **AI in healthcare**, **Machi
 
 ---
 
-## 📈 GitHub Stats
-
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikdagreat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikdagreat&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -45,12 +41,13 @@ I'm currently focused on projects that span across **AI in healthcare**, **Machi
 ## 🔬 Research & Projects
 
 ### Research Highlights
-- **Skin Cancer Detection:** Published research on an ensemble CNN model for skin cancer detection in IEEE, achieving 96.33% accuracy.
-- **Fake News Detection:** Developed an ensemble-based meta-learning framework for real-time identification of fake news. Currently under review with Elsevier.
+- **Skin Cancer Detection:** Published research on an ensemble CNN model for skin cancer detection in IEEE, achieving 96.33% accuracy [link](https://doi.org/10.1109/ICoICI62503.2024.10696508).
+- **Psychological Counselling Chatbot:** Submitted a research paper to Elsevier and it has been accepted in a conference on the 3rd to 5th of December.
+- **Fake News Detection:** Developed an ensemble-based meta-learning framework for real-time identification of fake news. Currently under review with Elsevier .
 - **Document Classification for Samsung PRISM:** Created a lightweight CNN-based on-device document classifier, optimized for low latency and high accuracy, submitted for ISEC 2025.
 
 ### Notable Projects
-1. **FarmBot Software** (SAP Labs) - Decreased API call time by 28% using Flask and AngularJS. Integrated XSUAA for secure access.
+1. **FarmBot Software** - Decreased API call time by 28% using Flask and AngularJS. Integrated XSUAA for secure access.
 2. **Fake News Origin Detection System** - Ensemble model using gradient boosting and NLP to identify misinformation sources with high accuracy.
 3. **Psychological Counseling Chatbot** - Multimodal AI chatbot using speech-to-text, emotion recognition, and body pose detection for mental health assessment.
 4. **Sentiment Analysis System** - Python-based bot leveraging Tweepy and NLTK to analyze Twitter sentiment on trending topics.
