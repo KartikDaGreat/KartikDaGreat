@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kartik Kumar Gounder!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=58A6FF&width=435&lines=Machine+Learning+Engineer+%7C+Researcher;Python+Enthusiast+%7C+NLP+Lover;Data+Analyst+%7C+Deep+Learning+Practitioner;Software+Engineer+%7C+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=58A6FF&width=435&lines=ML+Engineer+%7C+Researcher;Python+Enthusiast+%7C+NLP+Lover;Data+Analyst+%7C+Deep+Learning+Practitioner;Software+Engineer+%7C+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ---
 
@@ -8,7 +8,7 @@
 
 I’m Kartik, a Computer Science and Engineering undergraduate with a strong background in **Machine Learning**, **AI**, **Software Engineering**, and **Data Science**. I’ve held roles at **SAP Labs**, **Samsung PRISM**, and **eNova Technologies**, where I designed innovative solutions that combined data-driven insights and technology to solve real-world problems.
 
-I'm currently focused on projects that span across **IoT**, **AI in healthcare**, **on-device machine learning**, and **edge computing**, with a vision to pursue a Master's in Computer Science. My career goal is to contribute to societal growth as a Research and Development Engineer and, ultimately, start a technology-focused venture.
+I'm currently focused on projects that span across **AI in healthcare**, **Machine Learning in EEG signals**, and **IOMT and edge computing**, with a vision to pursue a Master's in Computer Science. My career goal is to contribute to societal growth as a Research and Development Engineer and, ultimately, start a technology-focused venture.
 
 ---
 
