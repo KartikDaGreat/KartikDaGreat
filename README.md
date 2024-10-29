@@ -10,14 +10,14 @@ I'm Kartik, a passionate Machine Learning Engineer and Researcher dedicated to s
 
 Currently, I'm diving into:
 - **Neonatal EEG Seizure Detection using LSTM networks** with adaptive learning.
-- **Fake News Origin Detection** using NLP and ensemble models.
-- Research on **on-device document classification** and **smart wearable technology** for healthcare applications.
+- **Fake News Detection for other Languages** using NLP and ensemble models as well as transfer learning.
+- Researching on **smart wearable technology (smart shoes)** for healthcare applications.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikkumargounder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikdagreat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkumargounder&layout=compact&theme=tokyonight&hide_border=true)
 
