@@ -1,14 +1,15 @@
 # 👋 Hello, I'm Kartik Kumar Gounder!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=58A6FF&width=435&lines=ML+Engineer+%7C+Researcher;Python+Enthusiast+%7C+NLP+Lover;Data+Analyst+%7C+Deep+Learning+Practitioner;Software+Engineer+%7C+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=58A6FF&width=600&lines=ML+Engineer+%7C+Researcher;Deep+Learning+Practitioner+%7C+AI+Innovator;Software+Engineer+%7C+Full+Stack+Developer;IoMT+%7C+Edge+Computing+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ## 💼 About Me
 
-I’m Kartik, a Computer Science and Engineering undergraduate with a strong background in **Machine Learning**, **AI**, **Software Engineering**, and **Data Science**. I’ve held roles at **SAP Labs**, **Samsung PRISM**, and **eNova Technologies**, where I designed innovative solutions that combined data-driven insights and technology to solve real-world problems.
+I’m **Kartik**, a Computer Science & Engineering undergraduate with hands-on experience across **Machine Learning, AI, Edge Computing, Software Development, and Data Science**.  
+I’ve interned at **SAP Labs**, **Samsung PRISM**, and **eNova Technologies**, working on cutting-edge solutions spanning **real-time data processing**, **AI-driven healthcare**, **document classification**, and **large-scale software systems**.
 
-I'm currently focused on projects that span across **AI in healthcare**, **Machine Learning in EEG signals**, and **IOMT and edge computing**, with a vision to pursue a Master's in Computer Science. My career goal is to contribute to societal growth as a Research and Development Engineer and, ultimately, start a technology-focused venture.
+🎯 My mission is to bridge research with industry applications, from **EEG-based seizure detection** to **vision assistive wearables**, while preparing to pursue a **Master’s in Computer Science**. Long-term, I aim to drive societal impact as an **R&D Engineer** and future **tech entrepreneur**.
 
 ---
 
@@ -23,72 +24,82 @@ I'm currently focused on projects that span across **AI in healthcare**, **Machi
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
-### Tools
+### Tools & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-F37626?style=for-the-badge&logo=xampp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
 ---
 
-## 🔬 Research & Projects
+## 🔬 Research & Patents
 
-### Research Highlights
-- **Skin Cancer Detection:** Published research on an ensemble CNN model for skin cancer detection in IEEE, achieving 96.33% accuracy [link](https://doi.org/10.1109/ICoICI62503.2024.10696508).
-- **Psychological Counselling Chatbot:** Submitted a research paper to Elsevier and it has been accepted in a conference on the 3rd to 5th of December.
-- **Fake News Detection:** Developed an ensemble-based meta-learning framework for real-time identification of fake news. Currently under review with Elsevier .
-- **Document Classification for Samsung PRISM:** Created a lightweight CNN-based on-device document classifier, optimized for low latency and high accuracy, submitted for ISEC 2025.
+### 📄 Publications
+- **Skin Cancer Detection using Ensemble CNNs** – IEEE [🔗](https://ieeexplore.ieee.org/document/10696508)  
+- **Psychological Counselling Chatbot** – Springer LNCS [🔗](https://link.springer.com/chapter/10.1007/978-3-031-82706-8_23)  
+- **On-Device Document Classification (Samsung PRISM)** – ACM ISEC 2025 [🔗](https://dl.acm.org/doi/10.1145/3717383.3717387)  
+- **Fake News Detection (Ensemble Meta-Learning Framework)** – Under review with Elsevier  
 
-### Notable Projects
-1. **FarmBot Software** - Decreased API call time by 28% using Flask and AngularJS. Integrated XSUAA for secure access.
-2. **Fake News Origin Detection System** - Ensemble model using gradient boosting and NLP to identify misinformation sources with high accuracy.
-3. **Psychological Counseling Chatbot** - Multimodal AI chatbot using speech-to-text, emotion recognition, and body pose detection for mental health assessment.
-4. **Sentiment Analysis System** - Python-based bot leveraging Tweepy and NLTK to analyze Twitter sentiment on trending topics.
+### 🧾 Patents
+- **Multimodal Context-Adaptive Keyframe Selection for Vision Assistive Wearables** – Issued May 30, 2025 *(Patent No: 202541041643)*  
+- **Sensor-Fused Object Distance Estimation and Visual Scaling for Wearable Electronic Systems** – Filed July 28, 2025 *(Patent No: 202541071625)*  
+
+---
+
+## 🚀 Projects
+
+### AI & ML Systems
+- 🧠 **EEG Seizure Detection (IoMT Framework)** – Built real-time seizure detection pipeline with **signal compression, edge computing, and ML classifiers**.  
+- 🌱 **FarmBot Software (SAP Labs)** – Reduced API latency by **28%**, integrated secure XSUAA authentication.  
+- 📰 **Fake News Detection & Origin Tracking** – Ensemble NLP system leveraging **RoBERTa, SGD, PassiveAggressive, Gradient Boosting**.  
+- 💬 **Psychological Counseling Chatbot** – Multimodal AI chatbot with **speech-to-text, facial expression & body-pose emotion recognition**.  
+- 🎭 **Sentiment Analysis Bot** – Python + Tweepy + NLTK to extract insights from Twitter trends.  
+- 🎓 **Answer Grading Model** – Lightweight NLP model for **fast automated grading** of subjective answers.  
+
+### Hardware + AI
+- 👓 **Vision Assistive Glasses (Raspberry Pi + YOLOv8n)** – Detects objects, estimates distances via **ultrasonic fusion & visual scaling**, streams real-time annotated video.  
+- 🎥 **Keyframe Selection System** – Optimized wearable AI by **filtering critical frames**, reducing computational overhead while retaining detection accuracy.  
+- 🌐 **Attendance Marking App** – Built in **Flutter + Firebase + React dashboard**, using **side-profile detection** for entry/exit logging with CSV exports.  
 
 ---
 
 ## 🏆 Achievements
 
-- **Accenture Innovation Challenge (2023):** Semi-finalist out of 50,000 teams.
-- **Game Of Codes Hackathon (2023):** Winner, IEEE-CS.
-- **Ethletics Innovation Event (2022):** 2nd place, IIT Madras.
-- **Cryptic Hunt Hackathon (2022):** 3rd place, ACM-VIT.
-- **State Tennis (2019):** 1st place in U-16 AITA singles category.
+- 🏅 **Accenture Innovation Challenge (2023):** Semi-finalist (50,000+ teams)  
+- 🥇 **Game Of Codes Hackathon (2023):** Winner – IEEE-CS  
+- 🥈 **Ethletics Innovation Event (2022):** 2nd Place – IIT Madras  
+- 🥉 **Cryptic Hunt Hackathon (2022):** 3rd Place – ACM VIT  
+- 🎾 **State Tennis Champion (2019):** 1st Place, U-16 AITA Singles  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Gounder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-gounder)
-[![Email](https://img.shields.io/badge/Email-kartikgounder%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikgounder@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KartikDaGreat-181717?style=for-the-badge&logo=github)](https://github.com/KartikDaGreat)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1G2rE-CIFDdsaxn6Q7iZu2gSM95y-_Z1w/view?usp=drive_link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Gounder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-gounder)  
+[![Email](https://img.shields.io/badge/Email-kartikgounder%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikgounder@gmail.com)  
 
 ---
 
 ## 📚 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 - [Implementing Edge AI for Real-Time Seizure Detection](#)
 - [Fake News Detection: Challenges and Innovations](#)
 - [Multimodal AI in Healthcare - Psychological Chatbots](#)
+- [Optimizing Wearable AI with Keyframe Selection](#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📊 Repositories to Check Out
-
-### 🌱 **Garden Management System**
-A full-stack application using Angular and Flask to monitor plant health, with real-time data updates and secure access management.
-
-### 📰 **Fake News Detection**
-An ensemble model system that leverages RoBERTa, SGD, PassiveAggressive, and Gradient Boosting for efficient fake news identification.
-
-### 💡 **Psychological Counseling Chatbot**
-An AI-powered chatbot capable of analyzing mental states through multimodal inputs, featuring emotion recognition from speech, facial cues, and body language.
-
-Thank you for visiting my GitHub profile! Let's collaborate to create solutions that drive change and make a meaningful impact. 🚀
+✨ *Thanks for stopping by! Always open to collaborations in ML, AI research, and software development.* 🚀
