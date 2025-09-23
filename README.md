@@ -95,14 +95,4 @@ I’ve gained hands-on experience through internships at **SAP Labs**, **Samsung
 
 ---
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Implementing Edge AI for Real-Time Seizure Detection](#)
-- [Fake News Detection: Challenges and Innovations](#)
-- [Multimodal AI in Healthcare - Psychological Chatbots](#)
-- [Optimizing Wearable AI with Keyframe Selection](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ✨ *Thanks for stopping by! Always open to collaborations in ML, AI research, and software development.* 🚀
