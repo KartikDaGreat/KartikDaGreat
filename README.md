@@ -6,12 +6,13 @@
 
 ## 💼 About Me
 
-I’m **Kartik**, I' curious about technology and I want to build something with it. 
-I am doing my Master of Science in Computer Science at Columbia Engineering at the moment.
-I have worked heavily in fields across **Machine Learning, AI, Edge Computing, Software Development, and Data Science**.  
-I’ve interned at **SAP Labs**, **Samsung PRISM**, and **eNova Technologies**, working on cutting-edge solutions spanning **real-time data processing**, **AI-driven healthcare**, **document classification**, and **large-scale software systems**.
+I’m **Kartik**, a curious technologist passionate about building impactful solutions with code and data.  
+Currently, I’m pursuing my **Master of Science in Computer Science at Columbia Engineering**.  
 
-🎯 My drive has been in building a better world around me and the best way to do it with my own hands. I have accumulated experience in buiding large-scale AI systems as well as the other end in healthcare technology.
+My work spans **Machine Learning, Artificial Intelligence, Edge Computing, Software Development, and Data Science**.  
+I’ve gained hands-on experience through internships at **SAP Labs**, **Samsung PRISM**, and **eNova Technologies**, where I worked on projects ranging from **real-time data processing** and **AI-driven healthcare** to **document classification** and **large-scale software systems**.  
+
+🎯 Driven by the goal of creating a better world through technology, I focus on building systems that balance **research depth** with **real-world impact**—from scalable AI architectures to innovative healthcare solutions.
 
 ---
 
