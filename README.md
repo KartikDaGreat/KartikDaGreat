@@ -6,10 +6,12 @@
 
 ## 💼 About Me
 
-I’m **Kartik**, a Computer Science & Engineering undergraduate with hands-on experience across **Machine Learning, AI, Edge Computing, Software Development, and Data Science**.  
+I’m **Kartik**, I' curious about technology and I want to build something with it. 
+I am doing my Master of Science in Computer Science at Columbia Engineering at the moment.
+I have worked heavily in fields across **Machine Learning, AI, Edge Computing, Software Development, and Data Science**.  
 I’ve interned at **SAP Labs**, **Samsung PRISM**, and **eNova Technologies**, working on cutting-edge solutions spanning **real-time data processing**, **AI-driven healthcare**, **document classification**, and **large-scale software systems**.
 
-🎯 My mission is to bridge research with industry applications, from **EEG-based seizure detection** to **vision assistive wearables**, while preparing to pursue a **Master’s in Computer Science**. Long-term, I aim to drive societal impact as an **R&D Engineer** and future **tech entrepreneur**.
+🎯 My drive has been in building a better world around me and the best way to do it with my own hands. I have accumulated experience in buiding large-scale AI systems as well as the other end in healthcare technology.
 
 ---
 
