@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kartik Kumar Gounder!
+# 👋 Hello, I'm Kartik Gounder!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=58A6FF&width=600&lines=ML+Engineer+%7C+Researcher;Deep+Learning+Practitioner+%7C+AI+Innovator;Software+Engineer+%7C+Full+Stack+Developer;IoMT+%7C+Edge+Computing+Enthusiast)](https://git.io/typing-svg)
 
@@ -14,9 +14,7 @@ I’ve gained hands-on experience through internships at **SAP Labs**, **Samsung
 
 🎯 Driven by the goal of creating a better world through technology, I focus on building systems that balance **research depth** with **real-world impact**—from scalable AI architectures to innovative healthcare solutions.
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikdagreat&layout=compact&theme=tokyonight&hide_border=true)
+Visit my website for a few cool projects that I have worked on: https://kartikgounder.com/
 
 ---
 
