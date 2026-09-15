@@ -20,7 +20,7 @@ Also at Columbia's **aiX Convergence Design Studio**: privacy-preserving ML data
 
 **[skill-optimizer](https://github.com/KartikDaGreat/skill-optimize)**: Claude Code plugin that searches local skills, plugin marketplaces and 12 GitHub collections, picks the best skill in a Haiku subagent, asks before installing, and reports tokens per phase.
 
-**[TAOL](https://github.com/KartikDaGreat/trust-orchestrator)**: trust-aware middleware for LLM coding agents. Scores generated code and routes it to auto-apply, human review, or clarification. 99.2% intent-gate accuracy, benchmarked on 500 SWE-bench tasks.
+**[TAOL](https://kartikgounder.com/projects/taol)**: trust-aware middleware for LLM coding agents. Scores generated code and routes it to auto-apply, human review, or clarification. 99.2% intent-gate accuracy, benchmarked on 500 SWE-bench tasks.
 
 **Lightweight CNN-Fuzzy Logic Framework**: 3.7M-parameter on-device document classifier. Published at [ACM ISEC 2025](https://dl.acm.org/doi/10.1145/3717383.3717387) with Samsung.
 
